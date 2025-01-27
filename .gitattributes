@@ -1,0 +1,4 @@
+
+*.min.js -text
+*.png -text
+*.psd -text

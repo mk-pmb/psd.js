@@ -5,4 +5,11 @@
 
 
 
+# git worktrees:
+/[a-z]*-*
+/upmaster
+/wt.*
+
+
+
 # Unsorted stuff (this section should be empty):

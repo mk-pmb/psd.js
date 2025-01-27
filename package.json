@@ -1,0 +1,4 @@
+{ "name": "psd.js-maintenance-proxy",
+  "version": "3.3.0",
+  "main": "./upmaster/index.js"
+}
